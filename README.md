@@ -30,7 +30,7 @@ Extend to multi-equipment predictive analytics
  
 
 ## Streamlit App Interface  
-  
+  ![Image](https://github.com/user-attachments/assets/aad18268-40ac-48c1-b05b-906ccd1ae030)
 
 ## Prediction Example  
 
