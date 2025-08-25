@@ -33,6 +33,6 @@ Extend to multi-equipment predictive analytics
   ![Image](https://github.com/user-attachments/assets/aad18268-40ac-48c1-b05b-906ccd1ae030)
 
 ## Prediction Example  
-
+  <img width="1304" height="918" alt="Image" src="https://github.com/user-attachments/assets/b40c80e7-13b2-49d4-8fd2-55440f4237ff" />
 
 
